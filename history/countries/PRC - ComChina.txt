@@ -189,8 +189,3 @@ if = {
 }
 
 add_opinion_modifier = { target = CHI modifier = hostile_status }
-
-create_country_leader = {
-	name = "Zhong Xina"
-	picture = "gfx/leaders/CHI/Portrait_China_Mao_Zedong.dds"
-}
